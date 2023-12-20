@@ -27,7 +27,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love photography and Travelling.
 
-
+[![Twitter: spkatageri](https://img.shields.io/twitter/follow/spkatageri?style=social)](https://twitter.com/spkatageri)
+[![Linkedin: santoshkatageri](https://img.shields.io/badge/-santoshkatageri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santoshkatageri/)](https://www.linkedin.com/in/santoshkatageri/)
+[![GitHub santoshkatageri](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/santoshkatageri)
+[![website](https://img.shields.io/badge/PortfolioWebsite-santoshkatageri.github.io-2648ff?style=flat-square&logo=google-chrome)](https://santoshkatageri.github.io/)
 
 <!--
 <a href="https://github.com/santoshkatageri">
