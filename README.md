@@ -8,7 +8,7 @@
 <a href="[https://www.linkedin.com/in/sandeep-narvade-b72671205/]">
   <img align="left" alt="Santosh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="[https://github.com/Sandeep2319/]">
+<a href="[https://github.com/Sandeep2319]">
   <img align="left" alt="'s Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/chetan.narvade.5/">
