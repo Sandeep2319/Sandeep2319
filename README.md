@@ -20,7 +20,7 @@
 
 
 - 🔭 I’m currently pursing my PG-Diploma at CDAC-ACTS in DHPCSA(High performance computing & System Administration).
-- 🌱 I’m currently learning more about Devops.
+- 🌱 I’m currently learning more about HPC & Devops.
 - 👯 I’m looking to collaborate on software development.
 - 🤔 I’m looking for help with Open Source Project.
 - 📫 How to reach me: [Linkedin: Sandeep2319](https://www.linkedin.com/in/sandeep-narvade-b72671205/)  
