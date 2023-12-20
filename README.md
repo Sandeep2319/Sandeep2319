@@ -1,4 +1,4 @@
-### Hi there I'm [Sandeep Narvade!](https://github.com/Sandeep2319/Sandeep2319)) 👋 
+### Hi there I'm [Sandeep Narvade!](https://github.com/Sandeep2319/Sandeep2319)👋 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkatageri&label=Views&color=blue&style=plastic" alt="santoshkatageri" /> </p>
 
