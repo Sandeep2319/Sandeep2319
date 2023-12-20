@@ -19,7 +19,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on DCAC-ACTS in DHPCSA(High performance computing).
+- 🔭 I’m currently pursing my PG-Diploma at CDAC-ACTS in DHPCSA(High performance computing & System Administration).
 - 🌱 I’m currently learning more about Devops.
 - 👯 I’m looking to collaborate on software development.
 - 🤔 I’m looking for help with Open Source Project.
