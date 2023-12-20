@@ -19,12 +19,11 @@
 <br/>
 
 
-- 🔭 I’m currently working on Terraform Provider Development.
-- 🌱 I’m currently learning more about OpenSource contribution.
-- 👯 I’m looking to collaborate on Golang learning.
+- 🔭 I’m currently working on DCAC-ACTS in DHPCSA(High performance computing).
+- 🌱 I’m currently learning more about Devops.
+- 👯 I’m looking to collaborate on software development.
 - 🤔 I’m looking for help with Open Source Project.
-- 💬 Ask me about DevOps or any tech-related stuff.
-- 📫 How to reach me: [Linkedin: santoshkatageri](https://www.linkedin.com/in/sandeep-narvade-b72671205/)  
+- 📫 How to reach me: [Linkedin: Sandeep2319](https://www.linkedin.com/in/sandeep-narvade-b72671205/)  
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love photography and Travelling.
 
