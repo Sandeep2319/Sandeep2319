@@ -29,7 +29,7 @@
 
 [![Twitter: spkatageri](https://img.shields.io/twitter/follow/spkatageri?style=social)](https://twitter.com/spkatageri)
 [![Linkedin: santoshkatageri](https://img.shields.io/badge/-santoshkatageri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santoshkatageri/)](https://www.linkedin.com/in/santoshkatageri/)
-[![GitHub santoshkatageri](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/Sandeep2319)
+[![GitHub sandeep2319](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/Sandeep2319)
 
 <!--
 <a href="https://github.com/santoshkatageri">
