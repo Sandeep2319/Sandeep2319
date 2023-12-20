@@ -27,7 +27,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love photography and Travelling.
 
-[![Twitter: spkatageri](https://img.shields.io/twitter/follow/spkatageri?style=social)](https://twitter.com/spkatageri)
+[![Twitter: narvade55089](https://img.shields.io/twitter/follow/spkatageri?style=social)](https://twitter.com/narvade55089)
 [![Linkedin: SandeepNarvade](https://img.shields.io/badge/-SandeepNarvade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandeep-narvade-b72671205/)](https://www.linkedin.com/in/sandeep-narvade-b72671205/)
 [![GitHub Sandeep2319](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/Sandeep2319)
 
