@@ -1,4 +1,4 @@
-### Hi there I'm [Sandeep Narvade!](https://github.com/Sandeep2319/Sandeep2319)👋 
+### Hi there I'm [Sandeep Narvade!](https://github.com/Sandeep2319/Sandeep2319)👋💚
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkatageri&label=Views&color=blue&style=plastic" alt="santoshkatageri" /> </p>
 
@@ -19,8 +19,8 @@
 <br/>
 
 
-- 🔭 I’m currently pursing my PG-Diploma at CDAC-ACTS in DHPCSA(High performance computing & System Administration).
-- 🌱 I’m currently learning more about HPC & Devops.
+- 📚 I’m currently pursing my PG-Diploma at CDAC-ACTS in DHPCSA(High performance computing & System Administration).
+- 💥 I’m currently learning more about HPC & Devops.
 - 👯 I’m looking to collaborate on software development.
 - 🤔 I’m looking for help with Open Source Project.
 - 📫 How to reach me: [Linkedin: Sandeep2319](https://www.linkedin.com/in/sandeep-narvade-b72671205/)  
