@@ -1,7 +1,5 @@
 ### Hi there I'm [Sandeep Narvade!](https://github.com/Sandeep2319/Sandeep2319)👋💚
-<p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkatageri&label=Views&color=blue&style=plastic" alt="santoshkatageri" /> </p>
 
