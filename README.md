@@ -34,6 +34,6 @@
 
 <div align="center">
 
-### Show some ❤️!
+### Show some ❤️ to the repo!
 
 </div>
