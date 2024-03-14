@@ -1,5 +1,5 @@
 class Employee:
-    no_of_leaves = 8
+    no_of_leaves = 10
 
     def __init__(self, aname, asalary, arole):
         self.name = aname
