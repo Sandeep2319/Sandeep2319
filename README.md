@@ -20,7 +20,7 @@
 <br/>
 
 
-- 📚 I’m currently pursing my PG-Diploma at CDAC-ACTS in DHPCSA(High performance computing & System Administration).
+- 📚 I have completed my PG-Diploma at CDAC-ACTS in DHPCSA(High performance computing & DevOps).
 - 💥 I’m currently learning more about HPC & Devops.
 - 👯 I’m looking to collaborate on software development.
 - 🤔 I’m looking for help with Open Source Project.
